@@ -1,0 +1,15 @@
+Component   : NEXTION
+PCB Library : ARM_Libary_USB_to_RS232.PcbLib
+Date        : 24.11.2017
+Time        : 15:17:16
+
+
+
+Dimension : 12.649 x 2.743 mm
+
+ Layer(s)              Pads(s)  Tracks(s)  Fill(s)  Arc(s)  Text(s)
+--------------------------------------------------------------------
+ Multi Layer                 4          0        0       0        0
+ Top Overlay                 0          4        0       0        0
+--------------------------------------------------------------------
+ Total                       4          4        0       0        0
